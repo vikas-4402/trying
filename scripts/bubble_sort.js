@@ -1,7 +1,3 @@
-/*
-    
-*/
-
 function Bubble()
 {
     c_delay=0;
@@ -32,7 +28,3 @@ function Bubble()
 
     enable_buttons();
 }
-
-/*
-   
-*/
