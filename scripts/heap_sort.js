@@ -1,10 +1,3 @@
-/*
-    *****************
-    DONE BY:-   TUMMALA KETHAN
-    E-MAIL:-    tummala.kethan@gmail.com
-    *****************
-*/
-
 function Heap()
 {
     c_delay=0;
@@ -88,10 +81,3 @@ function heap_sort()
     }
     div_update(divs[i],div_sizes[i],"green");//Color update
 }
-
-/*
-    *****************
-    DONE BY:-   TUMMALA KETHAN
-    E-MAIL:-    tummala.kethan@gmail.com
-    *****************
-*/
